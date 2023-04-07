@@ -7,7 +7,9 @@ Fields of my interests:
 - high-level sythesis (HLS)
 - Eclipse based tool development
 
-The main technologies I've used in the last few years: Java 17, Eclipse, [EMF](https://www.eclipse.org/modeling/emf/), [Xtext](https://www.eclipse.org/Xtext/), [Xtend](https://www.eclipse.org/xtend/), [EMF Parsley](https://www.eclipse.org/emf-parsley/), [Graphiti](https://www.eclipse.org/graphiti/), [VIATRA](https://www.eclipse.org/viatra/), Spring, React, Maven, Jenkins
+I currently work at [Prolan Zrt.](https://www.prolan.hu/locale/en) as head of tool development department. Since 2017 we've built a hybrid-electronic railway interlocking system ([PRORIS](https://www.prolan.hu/en/products/PRORIS)) with 60 colleagues working on it. Our team implemented a DSL for railway interlocking algorithms, and another one to describe the static and dynamic (state machine) aspects of network protocols. 
+
+The main technologies I've used in the last few years: Java 17, Eclipse, [EMF](https://www.eclipse.org/modeling/emf/), [Xtext](https://www.eclipse.org/Xtext/), [Xtend](https://www.eclipse.org/xtend/), [EMF Parsley](https://www.eclipse.org/emf-parsley/), [Graphiti](https://www.eclipse.org/graphiti/), [VIATRA](https://www.eclipse.org/viatra/), Spring, React, Maven, Jenkins.
 
 <!--
 **subagergely/subagergely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
