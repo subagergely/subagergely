@@ -7,7 +7,7 @@ Fields of interest:
 - high-level sythesis (HLS)
 - Eclipse based tool development
 
-I currently work at [Prolan Zrt.](https://www.prolan.hu/locale/en) as head of tool development department. Since 2017 the company built a hybrid-electronic railway interlocking system ([PRORIS](https://www.prolan.hu/en/products/PRORIS)) with 60 colleagues working on it. Our team implemented a DSL for railway interlocking algorithms, and another one to describe the static and dynamic (state machine) aspects of network protocols. 
+I currently work at [Prolan Zrt.](https://www.prolan.hu/locale/en) as head of tool development department. Since 2017 the company built a hybrid-electronic railway interlocking system ([PRORIS](https://www.prolan.hu/en/products/PRORIS)) with 60 colleagues working on it. Our team implemented a DSL for railway interlocking algorithms, and another one to describe the static and dynamic (state machine) aspects of network protocols. We've also been developing a CAD software to design the interlocking aspects of railway stations.
 
 The main technologies I've used in the last few years: Java 17, Eclipse, [EMF](https://www.eclipse.org/modeling/emf/), [Xtext](https://www.eclipse.org/Xtext/), [Xtend](https://www.eclipse.org/xtend/), [EMF Parsley](https://www.eclipse.org/emf-parsley/), [Graphiti](https://www.eclipse.org/graphiti/), [VIATRA](https://www.eclipse.org/viatra/), Spring, React, Maven, Jenkins.
 
