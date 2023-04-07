@@ -1,4 +1,4 @@
-I'm Gergely Suba from Budapest, Hungary. I finished my BSc, MSc and PhD studies in Computer Engineering major at [BUTE]([http://bme.hu](https://www.bme.hu/?language=en)). 
+I'm Gergely Suba from Budapest, Hungary. I finished my BSc, MSc and PhD studies in Computer Engineering major at [BUTE](https://www.bme.hu/?language=en). 
 
 Fields of my interests:
 - model-based software development
