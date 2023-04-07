@@ -1,4 +1,13 @@
-### Hi there 👋
+I'm Gergely Suba from Budapest, Hungary. I finished my BSc, MSc and PhD studies in Computer Engineering major in the [Budapest University of Technology and Economics](http://bme.hu). 
+
+The fields of my interests:
+- model-based software development
+- domain-specific languages (DSL)
+- code generation
+- Eclipse based tool development
+- high-level sythesis (HLS)
+
+The main technologies I've used: Java 17, Eclipse, EMF, Xtext, Xtend, EMF Parsley, Graphiti, VIATRA
 
 <!--
 **subagergely/subagergely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
